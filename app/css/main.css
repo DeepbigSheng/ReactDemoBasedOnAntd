@@ -1,0 +1,17 @@
+.header{
+    color: aliceblue;
+
+}
+
+.content{
+    width: 1200px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    height: 600px;
+}
+
+.footer{
+    text-align: center;
+}
